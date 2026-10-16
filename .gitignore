@@ -1,0 +1,20 @@
+# 原始数据（507 MB，超过 GitHub 单文件 100 MB 限制，不上传）
+tianchi_mobile_recommend_train_user/
+*.csv
+
+# IDE
+.idea/
+.vscode/
+
+# 个人文档
+平成城-数据分析-简历.docx
+面试准备-数据分析实习.md
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+Thumbs.db
+Desktop.ini
+
